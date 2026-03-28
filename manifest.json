@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Load with Prefix",
+  "version": "1.0",
+  "description": "Reload the current tab URL with a configurable prefix.",
+  "permissions": ["activeTab", "storage"],
+  "icons": {
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_title": "Load with Prefix",
+    "default_icon": "icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_ui": {
+    "page": "options.html",
+    "open_in_tab": false
+  }
+}

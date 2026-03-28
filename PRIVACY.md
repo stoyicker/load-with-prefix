@@ -19,4 +19,4 @@ This extension does not send data to any third party. Navigation occurs entirely
 
 ## Contact
 
-For questions about this policy, open an issue at [https://github.com/stoyicker/extension-load-with-prefix/issues](https://github.com/stoyicker/extension-load-with-prefix/issues).
+For questions about this policy, open an issue at [https://github.com/stoyicker/load-with-prefix/issues](https://github.com/stoyicker/load-with-prefix/issues).
